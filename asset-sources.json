@@ -1,0 +1,23 @@
+{
+  "purpose": "Independent proposal concept. No reuse licence verified; restaurant approval or licensed replacements required for commercial use.",
+  "assets": [
+    {
+      "file": "assets/terrace.jpg",
+      "source": "https://www.haveli.com.pk/gellary",
+      "image": "https://www.haveli.com.pk/static/media/ga1.81252e5e71f1a626b139.jpg",
+      "credit": "Haveli Restaurant official gallery"
+    },
+    {
+      "file": "assets/rooftop.jpg",
+      "source": "https://www.haveli.com.pk/gellary",
+      "image": "https://www.haveli.com.pk/static/media/this-is-the-view-of-badshahi.b9ead5feb55152d8a6c6.jpg",
+      "credit": "Haveli Restaurant official gallery"
+    },
+    {
+      "file": "assets/food.jpg",
+      "source": "https://bridgetravelpakistan.wordpress.com/2019/06/27/haveli-restaurant-lahore/",
+      "image": "https://bridgetravelpakistan.wordpress.com/wp-content/uploads/2019/06/haveli-restaurant-lahore.jpg",
+      "credit": "Bridge Travel Pakistan, Haveli Restaurant Lahore (2019)"
+    }
+  ]
+}
